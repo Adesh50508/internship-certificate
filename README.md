@@ -1,2 +1,2 @@
 # internship-certificate
-Microsoft technolgy associate internship certificate
+Microsoft technology associate internship certificate
